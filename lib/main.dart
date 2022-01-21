@@ -50,7 +50,7 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Column(
         children: [
           Text('✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨'),
-          Text('⭐あなたは１４００人目のお客様️⭐️'),
+          Text('⭐あなたは１５００人目のお客様️⭐️'),
           Text('✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨'),
           Text('このアイコンを✝️秒以上見つめないで'),
           Container(
